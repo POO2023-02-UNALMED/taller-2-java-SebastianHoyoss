@@ -19,7 +19,7 @@ public class Auto {
 		}
 		return contador;
 	}
-	String verificarIdentidad() 
+	String verificarIntegridad() 
 	{
 		boolean verificar = true;
 		if (motor.registro!=registro) {
